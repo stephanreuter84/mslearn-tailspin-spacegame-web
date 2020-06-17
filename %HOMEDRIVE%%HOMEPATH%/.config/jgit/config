@@ -1,0 +1,3 @@
+[filesystem "host.docker.internal|Oracle Corporation|1.8.0_251|1659869906"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 0 nanoseconds
